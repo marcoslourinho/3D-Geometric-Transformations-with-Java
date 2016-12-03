@@ -1,4 +1,4 @@
-# 3D Geometric Transformations with Java
+# Geometric Transformations with Java 3D
 
 Example of a program for geometric transformations using Java 3D.
 
